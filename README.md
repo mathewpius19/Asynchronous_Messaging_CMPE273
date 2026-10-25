@@ -80,7 +80,7 @@ Save screenshots in `screenshots/` using these names:
 
 ### Competing consumers
 
-The worker logs should show different messages handled by different workers, for example:
+The worker logs below show different messages handled by different workers, for example:
 
 ```text
 [worker-A] processing order_id=... item_id=item-1 quantity=1
